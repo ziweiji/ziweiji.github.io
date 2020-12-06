@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-5-4-CAiRE-COVID
 excerpt: ''
 date: 2020-5-4
-venue: 'EMNLP NLP-COVID Workshop'
+venue: 'EMNLP | NLP-COVID Workshop'
 paperurl: 'https://arxiv.org/pdf/2005.03975.pdf'
 authors: 'Dan Su, Yan Xu, Tiezheng Yu, Farhad Bin Siddique, Elham J. Barezi, Pascale Fung'
 citation: 'Su D, Xu Y, Yu T, et al. CAiRE-COVID: A Question Answering and Multi-Document Summarization System for COVID-19 Research[J]. arXiv preprint arXiv:2005.03975, 2020.'

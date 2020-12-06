@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-9-21-modality
 excerpt: ''
 date: 2020-9-21
-venue: 'AACL 2020'
+venue: 'AACL'
 paperurl: 'https://arxiv.org/pdf/2009.09629.pdf'
 authors: 'Wenliang Dai, Zihan Liu, Tiezheng Yu, Pascale Fung'
 citation: 'Dai W, Liu Z, Yu T, et al. Modality-Transferable Emotion Embeddings for Low-Resource Multimodal Emotion Recognition[J]. arXiv preprint arXiv:2009.09629, 2020.'
