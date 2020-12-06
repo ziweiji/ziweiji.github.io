@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello, welcome to my homepage.
+Hello, welcome to my homepage!
 ======
 I do research on Artificial Intelligence, focus on Natural language processing (NLP). Now I am a PhD Student at [CAIRE](https://caire.ust.hk) (Center for Artificial Intelligence Research), HKUST.
-
+------
+![Our group photo](https://github.com/TysonYu/TysonYu.github.io/blob/master/images/group_photo.jpg)
 <!-- Education History
 ======
 2015 - 2019 Zhejiang University \\
