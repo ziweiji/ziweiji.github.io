@@ -10,7 +10,9 @@ redirect_from:
 
 Hello, welcome to my homepage!
 ======
-I do research on Artificial Intelligence, focus on Natural language processing (NLP). Now I am a PhD Student at [CAIRE](https://caire.ust.hk) (Center for Artificial Intelligence Research), HKUST.
+I am a Ph.D. candidate at Electronic and Computer Engineering Department and [Center for AI Research (CAiRE)](https://caire.ust.hk), The Hong Kong University of Science and Technology supervised by [Prof. Pascale Fung](https://pascale.home.ece.ust.hk). Previously, I completed my Bachelor in Electronic Engineering at [Zhejiang University](http://www.zju.edu.cn/mainm.htm).
+
+My current research interests lie primarily in the area of the Natural Language Generation, Text Summarization and Multimodality. 
 
 
 <img src="/images/group_photo.jpg">
@@ -20,6 +22,6 @@ I do research on Artificial Intelligence, focus on Natural language processing (
 2015 - 2019 Zhejiang University \\
 2019 - Now  Hong Kong University of Science and Technology -->
 
-<!-- Research Field
-====== -->
-<!-- I do research in Artificial Intelligence, focus on Natural language processing (NLP). Now I am a PhD Student at [CAIRE](https://caire.ust.hk) (Center for Artificial Intelligence Research), HKUST. -->
+Highlights
+======
++ TODO
