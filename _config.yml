@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : https://scholar.google.com.hk/citations?user=JK7nNekAAAAJ&hl=en
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -100,7 +100,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         :
   orcid            : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    :
   steam            : https://steamcommunity.com/profiles/76561198316093109 
   tumblr           :
-  twitter          : #https://twitter.com/ChinaTysonYu
+  twitter          :
   vine             :
   weibo            :
   xing             :
