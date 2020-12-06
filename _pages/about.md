@@ -12,7 +12,7 @@ Hello, welcome to my homepage.
 
 Education History
 ======
-2015 - 2019 Zhejiang University
+2015 - 2019 Zhejiang University \\
 2019 - Now  Hong Kong University of Science and Technology
 
 Research Field
