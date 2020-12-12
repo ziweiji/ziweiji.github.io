@@ -24,4 +24,9 @@ My current research interests lie primarily in the area of the Natural Language 
 
 Highlights
 ======
-+ TODO
+### *2018*
++ Won "China National Scholarship"
+### *2019*
++ Graduated from Zhejiang University
+### *2020*
++ Our [COVID question answering and multi-document summarization system](https://www.kaggle.com/sudansudan/caire-cord-task10) win the [COVID-19 Open Research Dataset Challenge (CORD-19)](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
