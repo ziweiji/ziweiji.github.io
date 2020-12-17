@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tiezheng Yu"
+title                    : "JI, Ziwei"
 title_separator          : "-"
-name                     : &name "Tiezheng Yu"
+name                     : &name "JI, Ziwei"
 description              : &description "personal description"
-url                      : https://TysonYu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ziweiji.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "TysonYu/TysonYu.github.io"
+repository               : "ziweiji.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tiezheng Yu"
+  name             : "JI, Ziwei"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate"
+  bio              : "Ph.D. student"
   location         : "Hong Kong"
   employer         :
   pubmed           : 
-  googlescholar    : https://scholar.google.com.hk/citations?user=JK7nNekAAAAJ&hl=en
-  email            : tyuah@connect.ust.hk
+  googlescholar    : https://scholar.google.com/citations?user=oSnZ9mMAAAAJ&hl=en
+  email            : zjiad@connect.ust.hk
   researchgate     :
   uri              :
   bitbucket        :
@@ -96,10 +96,10 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : TysonYu
+  github           : https://github.com/ziweiji
   google_plus      :
   keybase          :
-  instagram        : yu_tiezheng
+  instagram        : 
   impactstory      :
   lastfm           :
   linkedin         :
@@ -107,7 +107,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    :
-  steam            : 76561198316093109
+  steam            : 
   tumblr           :
   twitter          :
   vine             :
