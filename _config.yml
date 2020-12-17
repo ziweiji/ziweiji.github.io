@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "JI, Ziwei"
+title                    : "About Me"
 title_separator          : "-"
-name                     : &name "JI, Ziwei"
+name                     : &name "Ziwei Ji"
 description              : &description "personal description"
 url                      : https://ziweiji.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
