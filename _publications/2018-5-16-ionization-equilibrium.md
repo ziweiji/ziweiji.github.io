@@ -1,7 +1,7 @@
 ---
 title: "Impact of ionization equilibrium on electrokinetic flow of weak electrolytes in nanochannels"
 collection: publications
-permalink: /publication/2018-5-16-ionization-equilibrium.md
+permalink: /publication/2018-5-16-ionization-equilibrium
 excerpt: ''
 date: 2018-5-16
 venue: 'Nanotechnology'
