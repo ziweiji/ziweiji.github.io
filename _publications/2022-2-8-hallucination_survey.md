@@ -1,7 +1,7 @@
 ---
 title: "Survey of hallucination in natural language generation"
 collection: publications
-permalink: /publication/2022-02-08-hallucination_survey
+permalink: /publication/2022-2-8-hallucination_survey
 excerpt: ''
 date: 2022-2-8
 venue: 'ACM Computing Surveys'
