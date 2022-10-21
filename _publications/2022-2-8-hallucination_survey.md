@@ -12,7 +12,7 @@ paper: 'https://arxiv.org/pdf/2101.03841.pdf'
 slide:
 award:
 code: 
-show_year: true
+show_year: false
 ---
 [Paper](https://arxiv.org/pdf/2101.03841.pdf)
 
