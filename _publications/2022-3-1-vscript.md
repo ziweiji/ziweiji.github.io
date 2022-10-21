@@ -12,7 +12,7 @@ paper: 'https://arxiv.org/abs/2203.00314'
 slide:
 award:
 code:
-show_year: true
+show_year: false
 ---
 [Paper](https://arxiv.org/abs/2203.00314)
 
