@@ -3,7 +3,7 @@ title: "Plausible May Not Be Faithful: Probing Object Hallucination in Vision-La
 collection: publications
 permalink: /publication/2022-10-14-object_hallucination_VL
 excerpt: ''
-date: 2021-10-14
+date: 2022-10-14
 venue: ''
 paperurl: 'https://arxiv.org/abs/2210.07688'
 authors: 'Wenliang Dai, Zihan Liu, Ziwei Ji, Dan Su, Pascale Fung'
