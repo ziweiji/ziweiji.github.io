@@ -3,7 +3,7 @@ title: "VScript: Controllable Script Generation with Visual Presentation"
 collection: publications
 permalink: /publication/2022-3-1-vscript
 excerpt: ''
-date: 2021-3-1
+date: 2022-3-1
 venue: 'AACL Demo'
 paperurl: 'https://arxiv.org/abs/2203.00314'
 authors: 'Ziwei Ji, Yan Xu, I-Tsun Cheng, Samuel Cahyawijaya, Rita Frieske, Etsuko Ishii, Min Zeng, Andrea Madotto, Pascale Fung'
