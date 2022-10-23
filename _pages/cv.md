@@ -19,8 +19,8 @@ Education
 
 Work experience
 ======
-* Sept. 2017 - Feb. 2018: Research Intern
-  * Wuhan National Laboratory for Optoelectronics
+* **Research Intern:** Sept. 2017 - Feb. 2018 
+  * Wuhan National Laboratory for Optoelectronics, Wuhan, China
   * Supervisor: [Prof. Xiangshui Miao](https://baike.baidu.com/item/%E7%BC%AA%E5%90%91%E6%B0%B4/5125689), and [Prof. Yuhui He](http://faculty.hust.edu.cn/heyuhui/zh_CN/skxx/872850/content/2356.htm)
   
   * Numerical simulation of electrokinetic phenomena in nano fluidics.
