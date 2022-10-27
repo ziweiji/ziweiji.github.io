@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at Electronic and Computer Engineering Department and [Center for AI Research (CAiRE)](https://caire.ust.hk), The Hong Kong University of Science and Technology supervised by [Prof. Pascale Fung](https://pascale.home.ece.ust.hk). 
+I am a Ph.D. candidate at the Electronic and Computer Engineering Department and [Center for AI Research (CAiRE)](https://caire.ust.hk), The Hong Kong University of Science and Technology supervised by [Prof. Pascale Fung](https://pascale.home.ece.ust.hk). 
 
-My research interests lie primarily in the area of Natural Language Processing (NLP). Currently, I mainly work on Hallucination in NLG, focused on improving the faithfulness of generation tasks. I have experience in Dialogue System, Question Generation, Named Entity Recognition, Multimodel (Vision-Language) Generation, and Fake News Detection.
+My research interests lie primarily in the area of Natural Language Processing (NLP). Currently, I mainly work on Hallucination in NLG, focusing on improving generation tasks' faithfulness. I have experience in Dialogue Generation, Question Generation, Named Entity Recognition, Multimodel (Vision-Language) Generation, and Fake News Detection.
 
 Education History
 ======
-2015 - 2019 Huazhong University of Science and Technology (HUST) \\
+2015 - 2019     Huazhong University of Science and Technology (HUST) \\
 2019 - Present  Hong Kong University of Science and Technology (HKUST)
 
 Highlights
