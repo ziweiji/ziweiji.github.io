@@ -19,6 +19,7 @@ Education History
 
 Highlights
 ======
+
 ### *2019*
 + Graduate from HUST with hornors
 ### *2018*
