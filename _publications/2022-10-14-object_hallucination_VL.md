@@ -12,7 +12,7 @@ paper: 'https://arxiv.org/abs/2210.07688'
 slide:
 award:
 code:
-show_year: true
+show_year: false
 ---
 
 Dai W, Liu Z, Ji Z, Su D, Fung P. Plausible May Not Be Faithful: Probing Object Hallucination in Vision-Language Pre-training. arXiv preprint arXiv:2210.07688. 2022 Oct 14.
