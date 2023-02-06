@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-10-14-object_hallucination_VL
 excerpt: ''
 date: 2022-10-14
-venue: ''
+venue: 'EACL'
 paperurl: 'https://arxiv.org/abs/2210.07688'
 authors: 'Wenliang Dai, Zihan Liu, Ziwei Ji, Dan Su, Pascale Fung'
 citation: 'Dai W, Liu Z, Ji Z, Su D, Fung P. Plausible May Not Be Faithful: Probing Object Hallucination in Vision-Language Pre-training. arXiv preprint arXiv:2210.07688. 2022 Oct 14.'
