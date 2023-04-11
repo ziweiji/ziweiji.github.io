@@ -19,7 +19,8 @@ Education History
 
 Highlights
 ======
-
+### *2023*
++ Ji, Ziwei, et al. "Survey of hallucination in natural language generation." ACM Computing Surveys 55.1(2023): 1-38. Got 100+ citations!
 ### *2019*
 + Graduate from HUST with hornors
 ### *2018*

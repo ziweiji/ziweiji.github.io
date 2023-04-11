@@ -12,7 +12,7 @@ paper: 'https://arxiv.org/abs/2212.09648'
 slide:
 award:
 code:
-show_year: true
+show_year: false
 ---
 
 Cahyawijaya S, Lovenia H, Aji AF, Winata GI, Wilie B, Mahendra R, Wibisono C, Romadhony A, Vincentio K, Koto F, Santoso J. NusaCrowd: Open Source Initiative for Indonesian NLP Resources. arXiv preprint arXiv:2212.09648. 2022 Dec 19.
