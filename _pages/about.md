@@ -20,9 +20,10 @@ Education History
 Highlights
 ======
 ### *2024*
-+ Ji, Ziwei, et al. "Survey of hallucination in natural language generation." ACM Computing Surveys 55.1(2023): 1-38. Got 1100+ citations!
+I have received 2300+ Google Scholar citations!
++ Ji, Ziwei, et al. "Survey of hallucination in natural language generation." ACM Computing Surveys 55.1(2023): 1-38. have received 1100+ citations!
 ### *2023*
-+ "A multitask, multilingual, multimodal evaluation of chatgpt on reasoning, hallucination, and interactivity." Won Area Chair Award (Language Modeling and Analysis) at IJCNLP-AACL!
++ "A multitask, multilingual, multimodal evaluation of chatgpt on reasoning, hallucination, and interactivity." Won Area Chair Award (Language Modeling and Analysis) at AACL!
 ### *2019*
 + Graduate from HUST with hornors
 ### *2018*

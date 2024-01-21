@@ -33,16 +33,9 @@ Work experience
    -->
 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-
 Awards
 ======
-* Area Chair Award (Language Modeling and Analysis) at IJCNLP-AACL, 2023
+* Area Chair Award (Language Modeling and Analysis) at AACL, 2023
 * Silver medal (Top 2%) in Kaggle Competition: Stable Diffusion - Image to Prompts, 2023
 * National Scholarship, Ministry of Education of P.R.China (0.2%), 2016, 2017, 2018
 * Merit Student (3%), 2016, 2017, 2018
@@ -50,6 +43,13 @@ Awards
 * Outstanding Undergraduates in Term of Academic Performance (1%), 2016
 * Second Prize of Hubei Province in National Undergraduate Mathematics Competition, 2017
 
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+ 
 
 Skills
 ======
