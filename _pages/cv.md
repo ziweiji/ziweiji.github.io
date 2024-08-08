@@ -22,7 +22,8 @@ Work experience
 * **Research Intern:** Jul. 2023 - Jan. 2024 
   * Shanghai AI Lab, Shanghai, China
   * Mentor: Wenwei Zhang
-  * Evaluate hallucination in Large Language Model
+  * Build an analytical hallucination annotation dataset in Large Language Models. Employing the dataset, we train hallucination annotators based on InternLM-7B/20B. Accepted in ACL 2024.
+  * Scale analytical hallucination annotation progressively and improve the accuracy of the annotator with an iterative self-training framework. And apply the annotator for hallucination mitigation. Submitted to NeurIPS 2024.
   
 <!-- * **Research Intern:** Sept. 2017 - Feb. 2018 
   * Wuhan National Laboratory for Optoelectronics, Wuhan, China

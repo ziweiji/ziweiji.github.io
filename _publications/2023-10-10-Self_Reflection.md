@@ -1,9 +1,9 @@
 ---
 title: "Towards Mitigating Hallucination in Large Language Models via Self-Reflection"
 collection: publications
-permalink: /publication/2022-12-3-RHO
+permalink: /publication/2023-10-10-Self_Reflection
 excerpt: ''
-date: 2022-12-3
+date: 2023-10-10
 venue: 'EMNLP 2023 Findings'
 paperurl: 'https://arxiv.org/abs/2310.06271'
 authors: 'Ziwei Ji, Tiezheng Yu, Yan Xu, Nayeon Lee, Etsuko Ishii, Pascale Fung'

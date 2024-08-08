@@ -15,13 +15,13 @@ My research interests lie primarily in the area of Natural Language Processing (
 Education History
 ======
 2015 - 2019     Huazhong University of Science and Technology (HUST) \\
-2019 - Present  Hong Kong University of Science and Technology (HKUST)
+2019 - 2025     The Hong Kong University of Science and Technology (HKUST)
 
 Highlights
 ======
 ### *2024*
-I have received 2300+ Google Scholar citations!
-+ Ji, Ziwei, et al. "Survey of hallucination in natural language generation." ACM Computing Surveys 55.1(2023): 1-38. have received 1100+ citations!
+I have received 4690+ Google Scholar citations!
++ Ji, Ziwei, et al. "Survey of hallucination in natural language generation." ACM Computing Surveys 55.1(2023): 1-38. have received 2100+ citations!
 ### *2023*
 + "A multitask, multilingual, multimodal evaluation of chatgpt on reasoning, hallucination, and interactivity." Won Area Chair Award (Language Modeling and Analysis) at AACL!
 ### *2019*
