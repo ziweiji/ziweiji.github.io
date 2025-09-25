@@ -15,7 +15,7 @@ You can download my [CV](https://ziweiji.github.io/files/Ziwei_JI__s_CV.pdf) in 
 Education
 ======
 * B.S. in Huazhong University of Science and Technology, 2015 - 2019
-* Ph.D Candidate in ECE Department, Hong Kong University of Science and Technology, 2019 - Present
+* Ph.D in ECE Department, Hong Kong University of Science and Technology, 2019 - 2025
 
 Work experience
 ======
